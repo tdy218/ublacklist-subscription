@@ -43,8 +43,8 @@
 
 
 ##色情网站类
-*://*.pornhub.com/*
-*://*.xvideos.com/*
+*://*.pornhub\.(com|org)/*
+*://*.xvideos\(.com|red|/*
 *://91pinse.com/*
 *://91porny.com/*
 *://yuepao123.net/*
