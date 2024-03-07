@@ -4,12 +4,14 @@
 *://*.facebook.com/public/*
 
 ##站内搜索类
+*://fad.es/?s=*
 *://tgsou.me/*
 *://critrole.com/?s=*
 *://coxotec.com/coxo/?s=*
 *://www.megatv.com/?s=*
 *://www.yamazaki-biscuits.co.jp/?s=*
 *://www.ui.com/search/*
+*://www.meditel-group.it/?s=*
 *://belangerh2o.com/search/*
 *://belangerh2o.com/en/search/*
 *://stock.adobe.com/search/*
@@ -25,7 +27,9 @@
 *://www.tahiti-infos.com/search/*
 *://www.nicecotedazur.org/search/*
 *://dun.163.com/search/*
+*://www.fec.gov/data/legal/search/*
 *://landesrecht.rlp.de/bsrp?query=*
+*://belangerh2o.com/en/search/*
 *://montague-ma.gov/index.cfm?p=*
 *://www.imdb.com/list/*
 *://www.gettyimages.co.uk/photos/*
@@ -53,10 +57,10 @@
 
 ##按标题过滤
 #(简体)色情-招嫖相关
-title/^.*(招嫖|招鸡|招妓|外围|选妹|性感少妇|熟女|应召|裸陪|裸聊|援交|援助交际|一夜情|一ye情|学生妹|找小姐|校鸡|红灯区|全套服务|大保健|保健按摩|特殊服务|私人会所).*/
+title/^.*(招嫖|招鸡|招妓|外围|正妹|选妹|性感少妇|熟女|应召|裸陪|裸聊|援交|援助交际|一夜情|一ye情|学生妹|找小姐|找妹子|校鸡|红灯区|全套服务|大保健|保健按摩|特殊服务|私人会所).*/
 
 #(繁体)色情-招嫖相关
-title/^.*(招嫖|招雞|招妓|外圍|選妹|性感少婦|熟女|應召|裸陪|裸聊|援交|援助交際|一夜情|一ye情|學生妹|找小姐|校雞|紅燈區|全套服務|大保健|保健按摩|特殊服務|私人俱樂部).*/
+title/^.*(招嫖|招雞|招妓|外圍|正妹|選妹|性感少婦|熟女|應召|裸陪|裸聊|援交|援助交際|一夜情|一ye情|學生妹|找小姐|找妹子|校雞|紅燈區|全套服務|大保健|保健按摩|特殊服務|私人俱樂部).*/
 
 
 #(简体)色情-性爱相关
